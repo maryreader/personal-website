@@ -20,7 +20,7 @@ bio: I am a Research Officer at the Centre for Analysis of Social Exclusion at t
 interests:
 - Child poverty 
 - Social security
-- Early childhood inequalities 
+- Early childhood 
 - Welfare state change
 
 # Education to show in About widget
