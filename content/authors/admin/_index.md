@@ -67,3 +67,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
+I am a Research Officer at the Centre for Analysis of Social Exclusion at the LSE. My research focuses on the impact of poverty, disadvantage and social security on families with children, with a particular focus on early childhood, educational inequalities and larger families.
