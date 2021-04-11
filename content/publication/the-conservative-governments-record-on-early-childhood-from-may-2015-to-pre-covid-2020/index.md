@@ -1,6 +1,5 @@
 ---
-title: The Conservative Governments' Record on Early Childhood from May 2015 to
-  pre-COVID 2020
+title: Early Childhood from May 2015 to pre-COVID 2020
 subtitle: Policies, Spending and Outcomes
 publication_types:
   - "0"
@@ -32,3 +31,4 @@ image:
   preview_only: false
 date: 2021-04-11T16:49:09.510Z
 ---
+https://sticerd.lse.ac.uk/case/_new/publications/abstract/?index=7717
