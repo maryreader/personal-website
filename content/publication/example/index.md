@@ -34,8 +34,8 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: Link
+# links: 
+# - name: Link
  url: https://sticerd.lse.ac.uk/case/_new/publications/abstract/?index=7717
 
 # url_pdf: ''
