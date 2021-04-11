@@ -1,22 +1,21 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+title: Welfare reform and larger families
+summary: A mixed methods research project on the impact of the two-child limit and benefit cap, funded by the Nuffield Foundation.
+tags: []
+date: "2021-02-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.welfarereform-largerfamilies.org.uk/"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Vitolda Klein on Unsplash
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +29,22 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+What is motivating this project? 
+ 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Larger families have always faced a disproportionate risk of poverty. Two recent welfare reforms (the household benefit cap, which limits the benefit income a household can receive, and the two-child limit, which restricts eligibility for child-benefits to two children) are expected to exacerbate this risk even further. These reforms also break with precedent in the social security system by severing the link between assessed need and entitlement to support. Despite the significance of these changes, there are important gaps in our understanding of i) how the reforms are affecting patterns of poverty; ii) how families themselves are responding to the changes, and iii) whether they are affecting wider well-being. There is some early analysis of these policies but the available evidence is small-scale and incomplete. While the policies are already affecting an increasing numbers of families, they have yet to be formally evaluated.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+ This project adopts a multi-method nested research design to explore: 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+How has the profile of poverty been affected by the two-child limit and benefits cap? Using large-scale data, we will describe the socio-economic circumstances, ethnicity and geography of larger families, and examine the extent to which the changes have increased the risk and depth of poverty for particular groups, and have reduced the effectiveness of the social security system in protecting households when a new baby is born. We will use smaller families as a reference point but our primary focus will be on larger families.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+How are families coping? Qualitative longitudinal research (QLR) will follow 44 larger families over 18 months – interviewing primary caregivers at three points in time – as they experience the changing welfare policy context. The research will be conducted across two case study sites, Bradford and London, and will be underpinned by a robust purposive sampling strategy. QLR will generate dynamic, textured evidence on how larger families are affected by welfare reform, feeding into the quantitative analyses in later phases of the project and grounding them in lived experiences. 
+
+Has wider well-being of affected families been harmed? We will examine effects of the reforms on parental mental health and (if sample sizes allow) children’s self-reported well-being, using time series and difference-in-differences models. Flexibility will be built into this stage to facilitate analyses of unanticipated consequences emerging from the QLR and the insights of families themselves, as well as in response to potential data limitations. 
+
+The project will deliver timely and policy relevant evidence on the impact of the two-child limit and benefit cap on affected families. We will work closely with project policy partner – Child Poverty Action Group – to share findings from the project, and are also working in close collaboration with the councils of Bradford, Greenwich and Tower Hamlets. 
+
+Overall, the project will adopt a mixed-methods approach to develop new insight into the impact of two reforms, which radically reshape social security provision and eligibility in the UK, delivering a greater understanding of the changing poverty profile and risk faced by families with more than two children. 
+
+Dr Ruth Patrick (University of York); Dr Aaron Reeves (University of Oxford); Dr Kitty Stewart (London School of Economics and Political Science); Dr Kate Andersen (University of York); Mary Reader (London School of Economics and Political Science); and Child Poverty Action Group (CPAG).
+
