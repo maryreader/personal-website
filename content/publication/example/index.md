@@ -54,7 +54,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/yt5e_nZ7CZ8)'
+  caption: 'Image credit: Marcus Spiske on Unsplash (https://unsplash.com/photos/yt5e_nZ7CZ8)'
   focal_point: ""
   preview_only: false
 
