@@ -68,4 +68,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a Research Officer at the Centre for Analysis of Social Exclusion at the LSE. I use quantitative methods to analyse the impact of poverty, disadvantage and social security on families, with a particular focus on early childhood, educational inequalities and larger families.
+I am a Research Officer at the Centre for Analysis of Social Exclusion at the LSE. My research uses quantitative methods to analyse the impact of poverty, disadvantage and social security on families, with a particular focus on early childhood, educational inequalities and larger families.
