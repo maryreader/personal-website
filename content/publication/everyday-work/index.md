@@ -3,7 +3,8 @@ title: Everyday Work
 publication_types:
   - "4"
 authors:
-  - Reeves
+  - Rachel Reeves
+  - admin
 abstract: "This report draws on a series of interviews with workers in the
   everyday economy conducted in Wakefield in the summer of 2019. It reflects on
   the state of work in the everyday economy in modern Britain and how Labour
@@ -22,6 +23,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-04-11T19:51:01.114Z
+date: 2020-02-20T19:51:01.114Z
 ---
 https://www.gmb.org.uk/sites/default/files/everyday-work.pdf
