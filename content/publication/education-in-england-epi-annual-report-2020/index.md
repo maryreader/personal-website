@@ -3,7 +3,9 @@ title: "Education in England: EPI Annual Report 2020"
 publication_types:
   - "4"
 authors:
-  - Hutchinson
+  - Jo Hutchinson
+  - admin
+  - Avinash Akhal
 abstract: >-
   The Education Policy Institute (EPI) has published its Annual Report on the
   state of education in England, including the attainment gap between
