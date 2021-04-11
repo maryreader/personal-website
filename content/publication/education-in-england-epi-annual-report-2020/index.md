@@ -33,6 +33,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-04-11T19:44:13.283Z
+date: 2020-08-26T00:00:01.283Z
 ---
 https://epi.org.uk/publications-and-research/education-in-england-annual-report-2020/
