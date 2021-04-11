@@ -30,6 +30,7 @@ image:
 
 authors:
 - admin
+- Megan Curran
 
 tags:
 - Larger families
