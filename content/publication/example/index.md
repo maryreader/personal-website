@@ -9,7 +9,7 @@ authors:
 - Kitty Stewart
 
 # Author notes (optional)
-author_notes:
+author_notes:""
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -40,8 +40,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: https://sticerd.lse.ac.uk/case/_new/publications/abstract/?index=7717
+ - name: Link
+url: https://sticerd.lse.ac.uk/case/_new/publications/abstract/?index=7717
 
 url_pdf: ''
 url_code: ''
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/yt5e_nZ7CZ8)'
   focal_point: ""
   preview_only: false
 
@@ -64,7 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
+projects:[]
 - inequalities in early education
 
 # Slides (optional).
@@ -72,7 +72,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""`
+slides: ""
 ---
 
 {{% callout note %}}
