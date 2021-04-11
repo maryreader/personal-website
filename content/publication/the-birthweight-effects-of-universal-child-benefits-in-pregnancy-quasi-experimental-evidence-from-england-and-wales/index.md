@@ -37,7 +37,8 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/I0ItPtIsVEE)"
+  caption: "Image credit: Christian Bowen on Unsplash
+    (https://unsplash.com/photos/I0ItPtIsVEE)"
 date: 2021-04-11T16:57:55.054Z
 ---
 https://sticerd.lse.ac.uk/case/_new/publications/abstract/?index=7717
