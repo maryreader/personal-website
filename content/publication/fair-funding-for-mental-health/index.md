@@ -27,6 +27,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-04-11T20:34:22.554Z
+date: 2018-10-25T20:34:22.554Z
 ---
 https://www.ippr.org/research/publications/fair-funding-for-mental-health
