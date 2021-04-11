@@ -4,7 +4,8 @@ subtitle: Putting parity into practice
 publication_types:
   - "4"
 authors:
-  - Quilter
+  - Harry Quilter-Pinner
+  - Mary Reader
 abstract: >-
   Poor mental health is one most significant challenges of our time. A
   staggering one in four of us will experience a mental health problem each
