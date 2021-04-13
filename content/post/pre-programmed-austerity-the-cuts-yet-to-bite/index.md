@@ -36,6 +36,8 @@ Austerity is not just unnecessary: it is counterproductive. Cutting spending on 
 
 The Chancellor has an immediate opportunity in the budget this autumn, and a longer-term opportunity in the spending review next year, to reconsider. He should take it.
 
+_____________________
+
 This article was published in Prospect on 30 August 2018: https://bit.ly/3wUiiHK
 
 Carys Roberts is a senior economist at IPPR and tweets @carysroberts. Mary Reader is a research assistant at IPPR and tweets @reader_mary
