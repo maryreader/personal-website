@@ -6,7 +6,7 @@ featured: false
 authors:
   - Carys Roberts, Mary Reader
 tags:
-  - austerity
+  - austerity, public services, social security
 image:
   filename: featured
   focal_point: Smart
