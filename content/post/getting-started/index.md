@@ -1,5 +1,5 @@
 ---
-title: The UK is now falling behind both European countries and the US in its support for larger families
+title: "LSE Politics & Policy Blog: The UK is now falling behind both European countries and the US in its support for larger families"
 subtitle: []
 
 # Summary for listings and search engines
