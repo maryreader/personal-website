@@ -60,6 +60,7 @@ And, it should focus on early intervention: we can stop mental health conditions
 Funding mental health services properly is not optional. It is a basic necessity in an age where mental health is one of the greatest challenges we face.
 
 Talk is cheap—it is action that will determine whether patients like Jamie receive the support and care they need when they need it most. With the Autumn Budget and NHS Long Term Plan coming up, the time to act is now.
+_____________________
 
 This article was published in Prospect on 25 October 2018: https://bit.ly/3deKWvt
 
