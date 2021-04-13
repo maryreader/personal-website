@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: Ben Wicks on Unsplash (https://unsplash.com/photos/iDCtsz-INHI)'
+  caption: 'Image credit: Ben Wicks on Unsplash'
   focal_point: ""
   placement: 2
   preview_only: false
