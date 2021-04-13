@@ -4,7 +4,7 @@ date: 2018-07-30T18:32:11.737Z
 draft: false
 featured: false
 authors:
-  - Carys Roberts and Mary Reader
+  - Carys Roberts, Mary Reader
 tags:
   - austerity
 image:
