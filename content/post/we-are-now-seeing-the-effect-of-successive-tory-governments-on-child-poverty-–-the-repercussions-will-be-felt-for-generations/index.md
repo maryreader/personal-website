@@ -10,6 +10,7 @@ tags:
   - early childhood, early years education, social security 
 image:
   filename: featured
+  caption: 'Stavrialena Gontzou on Unsplash'
   focal_point: Smart
   preview_only: false
 ---
