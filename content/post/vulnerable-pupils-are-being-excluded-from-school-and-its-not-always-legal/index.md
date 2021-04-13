@@ -1,12 +1,12 @@
 ---
 title: "Vulnerable pupils are being excluded from school and it's not always legal "
-date: 2021-04-13T18:09:53.386Z
+date: 2020-02-26T18:09:53.386Z
 draft: false
 featured: false
 authors:
-  - Reader
+  - Mary Reader
 tags:
-  - education
+  - education, exclusions
 image:
   filename: featured
   focal_point: Smart
