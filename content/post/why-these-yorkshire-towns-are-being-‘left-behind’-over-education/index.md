@@ -43,6 +43,7 @@ We have been warning that the gap would increase for years now based on the data
 Within this context, the Government’s promise to ‘level up’ school funding is deeply disingenuous and is at risk of co-opting the language of equality of opportunity to cover up the very reverse. EPI research shows that the Government’s newly announced school funding allocations will mean extra funding is disproportionately funnelled into schools with more affluent, white British pupils. This will make closing the gap even harder.
 
 The Government urgently needs to prioritise closing the gap. This means reassessing funding to ensure that the most disadvantaged pupils are given the support they need. It also means a cross-departmental focus on tackling the social determinants of education outcomes, especially persistent poverty. Without it, decades of progress will be lost to the detriment of the poorest children and young people in society.
+_____________________
 
 This article was published in the Yorkshire Post on 27 August 2020: https://www.yorkshirepost.co.uk/news/opinion/columnists/why-these-yorkshire-towns-are-being-left-behind-over-education-mary-reader-2953690 
 
