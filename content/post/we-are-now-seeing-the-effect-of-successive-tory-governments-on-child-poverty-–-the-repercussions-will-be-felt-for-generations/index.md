@@ -41,6 +41,7 @@ And alongside investment in affordable childcare, there have been cutbacks in pr
 There was little to no investment in staff qualifications, pay and conditions. Funding changes have expanded the private sector and present an existential threat to state nursery schools, even though the latter have more qualified staff and provide better quality provision. And households with young children, whether in or out of work, were hit the hardest by successive rounds of benefit cuts. The impact of these policies will snowball during the pandemic.
 
 Early childhood is a vital life stage, and a brief one. Yet both before and during the pandemic the government has let young children down. Unless we act to change this, the repercussions will be felt for generations to come.
+_____________________
 
 This article was published in *The Independent* on 1 February 2021: https://bit.ly/3mUOUwx
 
