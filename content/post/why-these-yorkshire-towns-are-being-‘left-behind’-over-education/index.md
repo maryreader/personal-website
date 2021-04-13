@@ -12,6 +12,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+IT is widely expected that the Covid-19 pandemic will exacerbate inequalities within education, presenting a clear challenge to the Prime Minister’s promise to ‘level up’ the country.
+
 Pupils have lost several months of learning at a time in their lives when every month of learning counts. Evidence shows that during lockdown richer pupils are more likely to have had teacher input through remote classes, private tutoring and a comfortable home learning environment.
 
 But our recent [EPI research ](https://www.yorkshirepost.co.uk/news/opinion/columnists/northern-powerhouse-minister-must-be-based-here-succeed-yorkshire-post-says-2952468)shows that it’s not just the pandemic that we should be worrying about. It is poverty.
