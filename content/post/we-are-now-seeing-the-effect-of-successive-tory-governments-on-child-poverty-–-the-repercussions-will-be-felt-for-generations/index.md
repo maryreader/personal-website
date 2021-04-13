@@ -41,7 +41,7 @@ There was little to no investment in staff qualifications, pay and conditions. F
 
 Early childhood is a vital life stage, and a brief one. Yet both before and during the pandemic the government has let young children down. Unless we act to change this, the repercussions will be felt for generations to come.
 
-This article was published in *The Independent* on 1 February 2021. 
+This article was published in *The Independent* on 1 February 2021: https://www.independent.co.uk/voices/child-poverty-covid-universal-credit-cuts-b1795862.html?fbclid=IwAR1q9mYc6CWOygrmR2Vfnny03zYwQiaTon9WRCNZXlt69OeYpTH6ZsLZ6ZE
 
 *Dr Kitty Stewart is associate professor of social policy and associate director of the Centre for Analysis of Social Exclusion (CASE)*
 
