@@ -43,6 +43,6 @@ Blindly continuing along the current policy trajectory without consideration of 
 
 _____________________
 
-This article was published in The Telegraph on 26 February 2021: https://bit.ly/3mKm2ab
+This article was published in *The Telegraph* on 26 February 2021: https://bit.ly/3mKm2ab
 
-***Mary Reader is a Senior Researcher at [The Education Policy Institute](https://epi.org.uk/), working in their [Social Mobility and Vulnerable Learners](https://epi.org.uk/publications-and-research/annual-report-2019/) team. She tweets at [@reader_mary](https://twitter.com/reader_mary?lang=en)***
+Mary Reader is a Senior Researcher at [The Education Policy Institute](https://epi.org.uk/), working in their [Social Mobility and Vulnerable Learners](https://epi.org.uk/publications-and-research/annual-report-2019/) team. She tweets at [@reader_mary](https://twitter.com/reader_mary?lang=en)
