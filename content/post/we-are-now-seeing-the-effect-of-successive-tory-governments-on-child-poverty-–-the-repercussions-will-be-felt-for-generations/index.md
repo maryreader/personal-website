@@ -45,6 +45,6 @@ _____________________
 
 This article was published in *The Independent* on 1 February 2021: https://bit.ly/3mUOUwx
 
-*Dr Kitty Stewart is associate professor of social policy and associate director of the Centre for Analysis of Social Exclusion (CASE)*
+Dr Kitty Stewart is associate professor of social policy and associate director of the Centre for Analysis of Social Exclusion (CASE)
 
-*Mary Reader is a research officer at CASE*
+Mary Reader is a research officer at CASE
