@@ -1,10 +1,10 @@
 ---
 title: "Pre-programmed austerity: the cuts yet to bite"
-date: 2021-04-13T18:32:11.737Z
+date: 2020-07-30T18:32:11.737Z
 draft: false
 featured: false
 authors:
-  - Roberts
+  - Carys Roberts and Mary Reader
 tags:
   - austerity
 image:
