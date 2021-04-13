@@ -5,7 +5,7 @@ date: 2021-02-01T14:35:10.152Z
 draft: false
 featured: false
 authors:
-  - Kitty Stewart and Mary Reader
+  - Kitty Stewart, Mary Reader
 tags:
   - early childhood, early years education, social security 
 image:
