@@ -64,7 +64,7 @@ The circumstances of COVID-19 forced the US government, and even social conserva
 
 _____________________
 
-This post was originally published on the LSE’s British Policy and Politics blog: https://blogs.lse.ac.uk/politicsandpolicy/two-child-limit/
+This post was published by the LSE’s British Policy and Politics blog: https://blogs.lse.ac.uk/politicsandpolicy/two-child-limit/
 
 Note: This project has been funded by the Nuffield Foundation, but the views expressed are those of the authors and not necessarily the Foundation. 
 
