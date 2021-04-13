@@ -5,9 +5,9 @@ date: 2021-04-13T14:35:10.152Z
 draft: false
 featured: false
 authors:
-  - Stewart
+  - Kitty Stewart and Mary Reader
 tags:
-  - early
+  - early childhood, early years education, social security 
 image:
   filename: featured
   focal_point: Smart
