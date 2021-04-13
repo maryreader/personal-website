@@ -5,9 +5,9 @@ date: 2021-04-13T18:24:46.943Z
 draft: false
 featured: false
 authors:
-  - Reader
+  - Mary Reader
 tags:
-  - mental
+  - mental health, adolescence
 image:
   filename: featured
   focal_point: Smart
