@@ -45,6 +45,6 @@ Within this context, the Government’s promise to ‘level up’ school funding
 The Government urgently needs to prioritise closing the gap. This means reassessing funding to ensure that the most disadvantaged pupils are given the support they need. It also means a cross-departmental focus on tackling the social determinants of education outcomes, especially persistent poverty. Without it, decades of progress will be lost to the detriment of the poorest children and young people in society.
 _____________________
 
-This article was published in the Yorkshire Post on 27 August 2020: https://www.yorkshirepost.co.uk/news/opinion/columnists/why-these-yorkshire-towns-are-being-left-behind-over-education-mary-reader-2953690 
+This article was published in *The Yorkshire Post* on 27 August 2020: https://bit.ly/3dh9LqB
 
 Mary Reader is a Senior Researcher at the Education Policy Institute. She tweets @reader_mary.
