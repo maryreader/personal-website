@@ -8,8 +8,10 @@ authors:
 tags:
   - education, inequalities
 image:
-  filename: featured
-  focal_point: Smart
+  caption: 'Image credit: 
+Illiya Vjestica on Unsplash'
+  focal_point: ""
+  placement: 2
   preview_only: false
 ---
 IT is widely expected that the Covid-19 pandemic will exacerbate inequalities within education, presenting a clear challenge to the Prime Minister’s promise to ‘level up’ the country.
