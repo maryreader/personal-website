@@ -9,6 +9,7 @@ tags:
   - education, exclusions
 image:
   filename: featured
+  caption: 'Image credit: MCHe Lee on Unsplash'
   focal_point: Smart
   preview_only: false
 ---
