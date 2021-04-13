@@ -38,6 +38,6 @@ The Chancellor has an immediate opportunity in the budget this autumn, and a lon
 
 _____________________
 
-This article was published in Prospect on 30 August 2018: https://bit.ly/3wUiiHK
+This article was published in *Prospect* on 30 August 2018: https://bit.ly/3wUiiHK
 
 Carys Roberts is a senior economist at IPPR and tweets @carysroberts. Mary Reader is a research assistant at IPPR and tweets @reader_mary
