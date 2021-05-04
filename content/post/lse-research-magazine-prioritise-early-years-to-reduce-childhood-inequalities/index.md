@@ -5,7 +5,7 @@ date: 2021-05-04T13:46:49.508Z
 draft: false
 featured: true
 authors:
-  - Kitty Stewart & Mary Reader 
+  - Kitty Stewart, Mary Reader 
 tags:
   - early childhood; child poverty
 projects:
