@@ -45,10 +45,10 @@ At the same time – and, we argue, no coincidence – this period also saw sign
 
 Early childhood is a vital life stage that can shape a child’s later path through life. Recent UK history tells us that inequalities between young children are not simply inevitable, but are responsive to policy influence. Political priorities are therefore crucial. As we emerge from the pandemic and look to the future, this is a vital message for policymakers not only in the UK, but across the globe.
 
+_____________________
+This article was originally published by LSE Research for the World Magazine on 4 May 2021: https://bit.ly/3thghCu
+
 Dr Kitty Stewart is Associate Professor of Social Policy and Associate Director of the Centre for Analysis of Social Exclusion (CASE) at LSE. Kitty’s recent research focuses primarily on the causes and consequences of child poverty, the relationship between income and wider outcomes, and policy for young children.
 
 Mary Reader is a Research Officer at the Centre for Analysis of Social Exclusion (CASE) at LSE. Her current research interests include: child poverty and disadvantage; social security and welfare reform; early childhood; education and health inequalities; and the politics of gender, race and migration within the context of the welfare state change.
-
-This article was published by LSE Research for the World Magazine.
-
 
