@@ -5,11 +5,11 @@ date: 2021-05-04T13:46:49.508Z
 draft: false
 featured: true
 authors:
-  - Kitty
+  - Kitty Stewart & Mary Reader 
 tags:
-  - early
+  - early childhood; child poverty
 projects:
-  - early
+  - Inequalities in early years education
 image:
   filename: featured
   focal_point: Smart
