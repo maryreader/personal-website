@@ -14,14 +14,14 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Research Officer at the Centre for Analysis of Social Exclusion at the LSE. My research focuses on the impact of poverty, disadvantage and social security on families, with a particular focus on early childhood, educational inequalities and larger families. 
+bio: I am a Research Officer at the Centre for Analysis of Social Exclusion at the LSE. My research focuses on the impact of poverty, disadvantage and social security on families, with a particular focus on early childhood, health inequalities and larger families. 
 
 # Interests to show in About widget
 interests:
 - Child poverty 
 - Social security
 - Early childhood 
-- Welfare state change
+- Health inequalities
 
 # Education to show in About widget
 education:
