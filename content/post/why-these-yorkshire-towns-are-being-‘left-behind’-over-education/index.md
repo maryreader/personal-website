@@ -1,5 +1,5 @@
 ---
-title: "Yorkshire Post: Why these Yorkshire towns are being ‘left behind’ over education"
+title: "Why these Yorkshire towns are being ‘left behind’ over education (*Yorkshire Post*)"
 date: 2020-08-27T14:47:32.152Z
 draft: false
 featured: false
