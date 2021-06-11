@@ -35,8 +35,10 @@ The families we have spoken to so far were resilient in the face of these challe
 
 Covid-19 has highlighted the inadequacy of our social security system and campaigners are urging the government not to cut UC by £20 a week in September. But even if the government doesn’t implement this cut, it pales in magnitude for families when compared to the two-child limit, which takes away [up to £55 a week per child](https://www.gov.uk/universal-credit/what-youll-get), and the benefit cap, which also takes away [an average of £55 a week](https://www.gov.uk/government/statistics/benefit-cap-number-of-households-capped-to-november-2020) from the very families that are most at risk of poverty. Until action is taken on these policies, larger families will continue to struggle to meet their children’s most basic needs.    
 
-Mary Reader is a Research Officer at the Centre for Analysis of Social Exclusion (CASE) at the LSE. Kate Andersen is a Research Associate at the University of York.
+_____________________
+This article was originally published on the Child Poverty Action Group website on 11 June 2021: https://bit.ly/3gpnnjU 
 
-This article was originally published on the Child Poverty Action Group website: https://bit.ly/3gpnnjU 
+Mary Reader is a Research Officer at the Centre for Analysis of Social Exclusion (CASE) at the LSE. 
+Kate Andersen is a Research Associate at the University of York.
 
 *The project has been funded by the Nuffield Foundation, but the views expressed are those of the author and not necessarily the Foundation. Visit [www.nuffieldfoundation.org](https://www.nuffieldfoundation.org/)*
