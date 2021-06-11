@@ -1,6 +1,6 @@
 ---
-title: "The Independent: We are now seeing the effect of successive Tory governments on child
-  poverty – the repercussions will be felt for generations"
+title: "We are now seeing the effect of successive Tory governments on child
+  poverty – the repercussions will be felt for generations (*The Independent*)"
 date: 2021-02-01T14:35:10.152Z
 draft: false
 featured: false
