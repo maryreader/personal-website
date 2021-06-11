@@ -1,6 +1,6 @@
 ---
 title: "“I didn’t have anyone to talk to”: why it’s time to address the hidden
-  crisis in teenage mental health (*Prospect*)"
+  crisis in teenage mental health (Prospect)"
 date: 2018-10-25T18:24:46.943Z
 draft: false
 featured: false
