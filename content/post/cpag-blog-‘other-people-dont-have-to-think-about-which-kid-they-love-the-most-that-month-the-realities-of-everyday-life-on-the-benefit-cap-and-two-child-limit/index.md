@@ -13,7 +13,7 @@ tags:
 projects:
   - Welfare reform and larger families 
 image:
-  filename: featured
+  filename: featured.
   focal_point: Smart
   preview_only: false
 ---
