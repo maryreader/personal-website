@@ -1,5 +1,5 @@
 ---
-title: "Vulnerable pupils are being excluded from school and it's not always legal (*The Telegraph*)"
+title: "Vulnerable pupils are being excluded from school and it's not always legal (The Telegraph)"
 date: 2020-02-26T18:09:53.386Z
 draft: false
 featured: false
