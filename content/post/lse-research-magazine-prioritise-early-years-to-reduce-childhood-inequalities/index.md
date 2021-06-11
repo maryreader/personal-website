@@ -1,6 +1,6 @@
 ---
-title: "LSE Research Magazine: Prioritise early years to reduce childhood
-  inequalities"
+title: "Prioritise early years to reduce childhood
+  inequalities (LSE Research Magazine)"
 date: 2021-05-04T13:46:49.508Z
 draft: false
 featured: true
