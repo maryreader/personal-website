@@ -1,5 +1,5 @@
 ---
-title: "Prospect: Pre-programmed austerity: the cuts yet to bite"
+title: "Pre-programmed austerity: the cuts yet to bite (*Prospect*)"
 date: 2018-07-30T18:32:11.737Z
 draft: false
 featured: false
