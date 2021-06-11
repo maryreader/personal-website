@@ -1,7 +1,7 @@
 ---
 title: "‘Other people don't have to think about which kid they love
   the most that month': the realities of everyday life on the benefit cap and
-  two child limit (*CPAG blog*)"
+  two child limit (CPAG blog)"
 date: 2021-06-11T11:25:26.491Z
 summary: 
 draft: false
