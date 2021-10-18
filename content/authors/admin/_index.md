@@ -14,7 +14,7 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Research Officer at the Centre for Analysis of Social Exclusion at the LSE. I use quantitative methods to identify the causal effects of social and economic policies. 
+bio: I am a Research Officer at the Centre for Analysis of Social Exclusion at The London School of Economics and Political Science. I use quantitative methods to identify the causal effects of social and economic policies. 
 
 # Interests to show in About widget
 interests:
