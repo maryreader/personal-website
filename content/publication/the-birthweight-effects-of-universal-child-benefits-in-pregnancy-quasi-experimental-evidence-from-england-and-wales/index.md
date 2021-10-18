@@ -1,5 +1,5 @@
 ---
-title: "The birthweight effects of universal child benefits in pregnancy:
+title: "The birthweight effects of a universal child benefit in pregnancy:
   quasi-experimental evidence from England and Wales"
 publication_types:
   - "3"
