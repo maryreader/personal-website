@@ -17,7 +17,7 @@ abstract: "This paper takes advantage of a unique policy experiment in the UK to
   mothers and those living in deprived areas. My findings suggest that there are
   significant health returns to paying universal child benefits during pregnancy
   and that the potential for birthweight gains from windfall increases in income
-  is larger than previously thought. "
+  is larger than previously thought. Latest version here: "
 draft: false
 featured: true
 image:
@@ -28,4 +28,3 @@ image:
     (https://unsplash.com/photos/I0ItPtIsVEE)"
 date: 2021-02-24T17:16:47.288Z
 ---
-https://sticerd.lse.ac.uk/case/_new/publications/abstract/?index=7717
