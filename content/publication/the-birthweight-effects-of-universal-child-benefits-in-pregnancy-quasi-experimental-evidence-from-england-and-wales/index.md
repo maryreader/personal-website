@@ -26,6 +26,6 @@ image:
   preview_only: false
   caption: "Image credit: Christian Bowen on Unsplash
     (https://unsplash.com/photos/I0ItPtIsVEE)"
-date: 2021-02-24T17:16:47.288Z
+date: 2021-10-18T14:38:28.920Z
 ---
 Latest working paper version [here](https://maryreader.com/publication/the-birthweight-effects-of-universal-child-benefits-in-pregnancy-quasi-experimental-evidence-from-england-and-wales/the-birthweight-effects-of-universal-child-benefits-in-pregnancy-quasi-experimental-evidence-from-england-and-wales.pdf).
