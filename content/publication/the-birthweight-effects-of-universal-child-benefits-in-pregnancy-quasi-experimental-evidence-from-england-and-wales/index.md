@@ -1,12 +1,13 @@
 ---
 title: "The birthweight effects of a universal child benefit in pregnancy:
-  evidence from England and Wales"
+  evidence from England and Wales (Revise & Resubmit, Journal of Health
+  Economics)"
 subtitle: ""
 publication_types:
   - "3"
 authors:
   - admin
-publication: Revise and Resubmit, Journal of Health Economics
+publication: ""
 abstract: "This paper takes advantage of a unique policy experiment in the UK to
   estimate the impact of paying a universal child benefit during pregnancy.
   Using administrative birth registrations microdata from England and Wales, I
