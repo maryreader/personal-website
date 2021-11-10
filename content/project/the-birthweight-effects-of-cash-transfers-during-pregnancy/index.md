@@ -10,4 +10,4 @@ image:
   preview_only: false
   caption: "Image credit: freestocks on Unsplash"
 ---
-Quasi-experimental research on the relative birthweight effects of transfers during pregnancy, including universal and means-tested, cash and in-kind, conditional and unconditional transfers.
+Research using large administrative births and health data on the relative birthweight effects of transfers during pregnancy, including universal and means-tested, cash and in-kind, conditional and unconditional transfers.
