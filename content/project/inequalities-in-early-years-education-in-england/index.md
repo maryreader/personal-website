@@ -8,4 +8,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: Gautam Arora on Unsplash"
 ---
