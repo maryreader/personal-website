@@ -1,9 +1,9 @@
 ---
-title: The Health in Pregnancy Grant
+title: "The birthweight effects of cash transfers during pregnancy "
 date: 2019-07-13T19:07:22.880Z
-summary: Quasi-experimental research on the impact of Labour's universal but
-  shortlived Health in Pregnancy Grant (2009-2011) on birth outcomes in England
-  and Wales.
+summary: Quasi-experimental research on the birthweight effects of cash
+  transfers during pregnancy, drawing on evidence from Labour's universal but
+  shortlived Health in Pregnancy Grant (2009-2011) in England and Wales.
 draft: false
 featured: false
 external_link: https://sticerd.lse.ac.uk/case/_new/research/HPG/
