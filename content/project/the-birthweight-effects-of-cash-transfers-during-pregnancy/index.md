@@ -1,5 +1,5 @@
 ---
-title: The birthweight effects of cash transfers during pregnancy
+title: Cash transfers, pregnancy and birth outcomes
 date: 2021-11-10T15:27:24.470Z
 draft: false
 featured: false
