@@ -6,8 +6,6 @@ publication_types:
 authors:
   - Jo Hutchinson
   - admin
-author_notes:
-  - Education Policy Institute
 draft: false
 featured: false
 image:
