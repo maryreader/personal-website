@@ -4,9 +4,9 @@ subtitle: An experimental methodology for analysing attainment, absence and excl
 publication_types:
   - "4"
 authors:
-  - Hutchinson
+  - Jo Hutchinson; Mary Reader
 author_notes:
-  - EPI
+  - Education Policy Institute
 draft: false
 featured: false
 image:
