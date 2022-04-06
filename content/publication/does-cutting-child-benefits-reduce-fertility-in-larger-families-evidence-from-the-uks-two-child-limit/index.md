@@ -44,4 +44,5 @@ image:
     (https://unsplash.com/photos/I0ItPtIsVEE)"
 date: 2022-04-06T11:42:40.406Z
 ---
-https://largerfamilies.study/publications/does-cutting-child-benefits-reduce-fertility-in-larger-families-evidence-from-the-uk-s-two-child
+
+Latest working paper version here![image](https://user-images.githubusercontent.com/72086395/161973249-013d3aa0-9db5-4dd9-bc13-059edb6cb666.png)
