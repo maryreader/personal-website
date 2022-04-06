@@ -4,7 +4,7 @@ title: Does cutting child benefits reduce fertility in larger families? Evidence
 publication_types:
   - "0"
 authors:
-  - MaryReader
+  - Mary Reader; Jonathan Portes; Ruth Patrick
 abstract: >-
   We study the impact of restricting child-related social assistance to the
   first two children
