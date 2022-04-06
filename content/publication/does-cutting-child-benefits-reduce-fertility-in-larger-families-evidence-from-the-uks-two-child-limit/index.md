@@ -36,7 +36,7 @@ tags:
   - fertility
 projects:
   - Welfare
-image:annie-spratt-TBHOuN6URGU-unsplash (1).jpg
+image:featured.jpg
   filename: featured
   focal_point: Smart
   preview_only: false
