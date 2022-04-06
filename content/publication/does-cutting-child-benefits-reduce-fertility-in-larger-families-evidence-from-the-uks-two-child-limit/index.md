@@ -44,4 +44,4 @@ image:
 date: 2022-04-06T11:42:40.406Z
 ---
 
-Latest working paper version here![image](https://user-images.githubusercontent.com/72086395/161973249-013d3aa0-9db5-4dd9-bc13-059edb6cb666.png)
+Latest working paper version here: https://bit.ly/3KfEBOp
