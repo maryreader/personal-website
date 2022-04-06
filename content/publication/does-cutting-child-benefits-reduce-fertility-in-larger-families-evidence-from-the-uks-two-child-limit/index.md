@@ -33,13 +33,15 @@ abstract: >-
 draft: false
 featured: true
 tags:
-  - fertility
+  - fertility; child benefits
 projects:
   - Welfare
-image:featured.jpg
-  filename: featured
+image:
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: Annie Spratt on Unsplash
+    (https://unsplash.com/photos/I0ItPtIsVEE)"
 date: 2022-04-06T11:42:40.406Z
 ---
 https://largerfamilies.study/publications/does-cutting-child-benefits-reduce-fertility-in-larger-families-evidence-from-the-uk-s-two-child
