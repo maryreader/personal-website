@@ -40,8 +40,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: "Image credit: Annie Spratt on Unsplash
-    (https://unsplash.com/photos/I0ItPtIsVEE)"
+  caption: "Image credit: Vitolda Klein on Unsplash"
 date: 2022-04-06T11:42:40.406Z
 ---
 
