@@ -33,9 +33,9 @@ abstract: >-
 draft: false
 featured: true
 tags:
-  - fertility; child benefits
+  - fertility; child benefits; welfare 
 projects:
-  - Welfare
+  - Welfare reform and larger families
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -44,4 +44,4 @@ image:
 date: 2022-04-06T11:42:40.406Z
 ---
 
-Latest working paper version here: https://bit.ly/3KfEBOp
+Working paper available here: https://docs.iza.org/dp15203.pdf
