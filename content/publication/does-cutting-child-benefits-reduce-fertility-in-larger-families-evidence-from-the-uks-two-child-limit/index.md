@@ -44,4 +44,4 @@ image:
 date: 2022-04-06T11:42:40.406Z
 ---
 
-Working paper available here: https://docs.iza.org/dp15203.pdf
+IZA discussion paper available here: https://docs.iza.org/dp15203.pdf
