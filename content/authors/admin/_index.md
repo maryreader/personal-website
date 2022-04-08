@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MPA in Public and Social Policy
+  - course: Master of Public Administration (MPA)
     institution: London School of Economics 
     year: 2019
   - course: BA in Philosophy, Politics and Economics
