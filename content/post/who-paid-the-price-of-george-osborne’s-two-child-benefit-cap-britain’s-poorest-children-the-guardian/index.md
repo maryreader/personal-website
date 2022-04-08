@@ -15,6 +15,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: Piron Guillaume on Unsplash"
 ---
 The long list of cuts made to social security benefits in the years after the 2010 election were justified by one purpose: to save money. But one cut in particular was about much more than that. The introduction of a two-child cap on benefits meant that anyone with a larger family would have to manage without the support of child tax credit or universal credit for a third or subsequent children. “Quite simply, we have been encouraging working-age people to have children and not work, when we should be enabling working-age people to work and have children. So it’s time we asked some serious questions about the signals we send out through the benefits system,” David Cameron said of the policy in 2012.
 
@@ -22,9 +23,6 @@ In other words, the supposed “generosity” of the benefit system encouraged f
 
 But our new research, funded by Nuffield and published today, on the fifth anniversary of the introduction of the limit, shows that this logic does not hold up. The two-child limit hasn’t discouraged poorer families from having children; it has simply made families poorer.
 
-Two children make their way back home in Glasgow, Scotland
-Two-child policy hasn’t made UK families smaller, only poorer, finds report
-Read more
 Using government birth records, we investigated whether the two-child limit reduced fertility among families on benefits who already had two or more children, compared with those who were not directly affected by the policy. We found that the fertility impacts of the policy were remarkably small: a reduction in annual births of just under 6,000 a year (less than 1% of total births) and a reduction in the fertility rates of those affected of about 5%.
 
 We had expected larger effects: previous research showed that benefit increases during the 2000s had substantial positive effects on fertility (approximately three times larger than our estimates). Our research suggests that doing the reverse – cutting benefits – has a relatively small effect on fertility. Why?
