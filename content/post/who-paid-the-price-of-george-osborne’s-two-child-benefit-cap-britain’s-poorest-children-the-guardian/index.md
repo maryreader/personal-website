@@ -6,14 +6,14 @@ summary: ""
 draft: false
 featured: false
 authors:
-  - Mary
+  - Mary Reader, Jonathan Portes
 tags:
-  - fertility
+  - fertility; child benefits; welfare
 projects:
-  - welfare
+  - Welfare reform and larger families
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
-https://www.theguardian.com/commentisfree/2022/apr/06/george-osborne-two-child-benefit-cap-britain-poorest-children
+Article available here: https://www.theguardian.com/commentisfree/2022/apr/06/george-osborne-two-child-benefit-cap-britain-poorest-children
