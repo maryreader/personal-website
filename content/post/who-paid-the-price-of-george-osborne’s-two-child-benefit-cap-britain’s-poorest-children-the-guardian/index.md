@@ -43,7 +43,7 @@ We know that this is having dire consequences for children, who despite the best
 
 Restricting children’s benefits at two children also has worrying implications for our society. No other country in the world caps children’s benefits at the second child. What are we saying about children who, by biological accident, are born third in a family? Every child needs supporting – regardless of when they are born or how large their family is. It is about time the government recognised that.
 
-Mary Reader is a research officer at the London School of Economics
+Mary Reader is a research officer at the London School of Economics.
 Jonathan Portes is a professor of economics and public policy at King’s College London. The research was funded by the Nuffield Foundation
 
 This article was originally published by The Guardian on 6 April 2022: https://www.theguardian.com/commentisfree/2022/apr/06/george-osborne-two-child-benefit-cap-britain-poorest-children
