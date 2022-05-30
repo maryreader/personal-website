@@ -18,9 +18,9 @@ bio: I am a Research Officer at the Centre for Analysis of Social Exclusion at T
 
 # Interests to show in About widget
 interests:
+- Inequality
 - Welfare reform
 - Early childhood
-- Health inequality
 
 # Education to show in About widget
 education:
