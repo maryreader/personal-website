@@ -6,7 +6,7 @@ title: Mary Reader
 superuser: true
 
 # Role/position/tagline
-role: Research Officer
+role: Pre-Doctoral Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Research Officer at the Centre for Analysis of Social Exclusion at The London School of Economics. My research uses quantitative methods to identify the causal effects of social and economic policies. 
+bio: I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. My research uses economic methods to identify the causal effects of public policy.
 
 # Interests to show in About widget
 interests:
-- Inequality
-- Welfare reform
-- Early childhood
+- Gender and race inequality
+- Poverty
+- Family policy
 
 # Education to show in About widget
 education:
@@ -66,5 +66,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-I am a Research Officer at the Centre for Analysis of Social Exclusion at The London School of Economics. My research uses quantitative methods to identify the causal effects of social and economic policies. 
+I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. My research uses economic methods to identify the causal effects of public policy.
