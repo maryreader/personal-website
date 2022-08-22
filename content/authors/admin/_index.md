@@ -14,7 +14,7 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. My research uses economic methods to identify the causal effects of public policy.
+bio: I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. 
 
 # Interests to show in About widget
 interests:
@@ -66,4 +66,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. My research uses economic methods to identify the causal effects of public policy.
+I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. 
