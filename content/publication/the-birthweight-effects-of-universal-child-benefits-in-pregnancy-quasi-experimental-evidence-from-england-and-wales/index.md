@@ -8,13 +8,7 @@ authors:
   - admin
 publication: Revised & Resubmitted to the Journal of Health Economics
 abstract: "I take advantage of a unique policy experiment in the UK to identify the infant
-health effects of starting universal child benefits in pregnancy. Leveraging administrative birth registrations and hospital microdata from England, I study the effects of the Health in Pregnancy Grant, a universal cash transfer of 190 GBP to all pregnant
-mothers who visited their doctor or midwife from 2009 to 2011. I exploit an arbitrary
-eligibility rule to implement a regression discontinuity design in the date of birth of the
-baby. I find that the policy led to significant increases in birthweight and reductions
-in prematurity. These effects do not appear to be explained by earlier antenatal care,
-nutrition or smoking. Instead, my results are consistent with reductions in prenatal
-stress among those most at risk of it: low-income, younger and older mothers."
+health effects of starting universal child benefits in pregnancy. Leveraging administrative birth registrations and hospital microdata from England, I study the effects of the Health in Pregnancy Grant, a universal cash transfer of 190 GBP to all pregnant mothers who visited their doctor or midwife from 2009 to 2011. I exploit an arbitrary eligibility rule to implement a regression discontinuity design in the date of birth of the baby. I find that the policy led to significant increases in birthweight and reductions in prematurity. These effects do not appear to be explained by earlier antenatal care, nutrition or smoking. Instead, my results are consistent with reductions in prenatal stress among those most at risk of it: low-income, younger and older mothers."
 draft: false
 featured: true
 image:
