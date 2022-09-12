@@ -25,4 +25,4 @@ image:
     (https://unsplash.com/photos/I0ItPtIsVEE)"
 date: 2021-10-18T14:38:28.920Z
 ---
-Latest working paper version [here](https://maryreader.com/publication/infant-health-universal-child-benefits-in-pregnancy.pdf).
+Latest working paper version [here](https://maryreader.com/publication/the-birthweight-effects-of-universal-child-benefits-in-pregnancy-quasi-experimental-evidence-from-england-and-wales.pdf).
