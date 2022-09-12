@@ -14,5 +14,6 @@ image:
   focal_point: Smart
   preview_only: false
   caption: "Image credit: Christian Bowen on Unsplash "
+summary: "Latest working version paper here. "
 date: 2022-09-12T18:18:24.016Z
 ---
