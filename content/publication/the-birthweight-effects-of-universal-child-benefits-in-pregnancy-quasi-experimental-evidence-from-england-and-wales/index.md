@@ -1,25 +1,20 @@
 ---
-title: "The birthweight effects of a universal child benefit in pregnancy:
-  evidence from England and Wales"
+title: "The infant health effects of starting universal child
+benefits in pregnancy: evidence from England and Wales"
 subtitle: ""
 publication_types:
   - "3"
 authors:
   - admin
-publication: Revise & Resubmit, Journal of Health Economics
-abstract: "This paper takes advantage of a unique policy experiment in the UK to
-  estimate the impact of paying a universal child benefit during pregnancy.
-  Using administrative birth registrations microdata from England and Wales, I
-  evaluate the impact of the Health in Pregnancy Grant, a universal and
-  short-lived policy that paid the equivalent of child benefit in a lump sum to
-  all pregnant mothers from 2009 to 2011. I exploit an arbitrary eligibility
-  rule to implement a regression discontinuity design in the date of birth of
-  the child. I find that the policy led to increases in mean birthweight at
-  population level. Effects were largest for the smaller babies, youngest
-  mothers and those living in deprived areas. My findings suggest that there are
-  significant health returns to paying universal child benefits during pregnancy
-  and that the potential for birthweight gains from windfall increases in income
-  is larger than previously thought. "
+publication: Revised & Resubmitted to the Journal of Health Economics
+abstract: "I take advantage of a unique policy experiment in the UK to identify the infant
+health effects of starting universal child benefits in pregnancy. Leveraging administrative birth registrations and hospital microdata from England, I study the effects of the Health in Pregnancy Grant, a universal cash transfer of 190 GBP to all pregnant
+mothers who visited their doctor or midwife from 2009 to 2011. I exploit an arbitrary
+eligibility rule to implement a regression discontinuity design in the date of birth of the
+baby. I find that the policy led to significant increases in birthweight and reductions
+in prematurity. These effects do not appear to be explained by earlier antenatal care,
+nutrition or smoking. Instead, my results are consistent with reductions in prenatal
+stress among those most at risk of it: low-income, younger and older mothers."
 draft: false
 featured: true
 image:
@@ -30,4 +25,4 @@ image:
     (https://unsplash.com/photos/I0ItPtIsVEE)"
 date: 2021-10-18T14:38:28.920Z
 ---
-Latest working paper version [here](https://maryreader.com/publication/the-birthweight-effects-of-universal-child-benefits-in-pregnancy-quasi-experimental-evidence-from-england-and-wales/the-birthweight-effects-of-universal-child-benefits-in-pregnancy-quasi-experimental-evidence-from-england-and-wales.pdf).
+Latest working paper version [here](https://maryreader.com/publication/infant-health-universal-child-benefits-in-pregnancy.pdf).
