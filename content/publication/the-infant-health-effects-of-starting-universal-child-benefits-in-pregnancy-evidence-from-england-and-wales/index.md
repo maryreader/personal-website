@@ -19,4 +19,4 @@ image:
     (https://unsplash.com/photos/I0ItPtIsVEE)"
 date: 2022-09-12T18:18:24.016Z
 ---
-Latest working paper version [here](https://maryreader.com/publication/the-infant-health-effects-of-starting-universal-child-benefits-in-pregnancy-evidence-from-england-and-wales.pdf).
+Latest working paper version [here](https://maryreader.com/publication/infant-health-universal-child-benefits-in-pregnancy.pdf).
