@@ -17,6 +17,6 @@ image:
   preview_only: false
   caption: "Image credit: Christian Bowen on Unsplash
     (https://unsplash.com/photos/I0ItPtIsVEE)"
-date: 2021-10-18T14:38:28.920Z
+date: 2022-09-12T18:18:24.016Z
 ---
 Latest working paper version [here](https://maryreader.com/publication/the-infant-health-effects-of-starting-universal-child-benefits-in-pregnancy-evidence-from-england-and-wales.pdf).
