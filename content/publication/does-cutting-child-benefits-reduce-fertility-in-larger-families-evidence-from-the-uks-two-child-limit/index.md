@@ -12,10 +12,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-tags:
-  - fertility; child benefits; welfare 
-projects:
-  - Welfare reform and larger families
 date: 2022-09-30T19:19:24.016Z
 ---
 Latest working paper version [here](https://maryreader.com/publication/does-cutting-child-benefits-reduce-fertility-in-larger-families-evidence-from-the-uks-two-child-limit.pdf).
