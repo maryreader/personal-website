@@ -5,6 +5,8 @@ publication_types:
   - "3"
 authors:
   - admin
+  - Jonathan Portes
+  - Ruth Patrick
 abstract: We study the fertility effects of restricting child-related social
   assistance to the first two children in the family. As of April 2017, all
   third and subsequent children born to low-income families in the UK were made
