@@ -6,30 +6,7 @@ publication_types:
 authors:
   - Mary Reader, Jonathan Portes and Ruth Patrick
 abstract: >-
-  We study the impact of restricting child-related social assistance to the
-  first two children
-
-  in the family on the fertility of third and subsequent births. As of April 2017, all third and
-
-  subsequent born children to low-income families in the UK did not receive means-tested child
-
-  benefits, amounting to a reduction in income relative to the previous system of approximately
-
-  3000 GBP a year per child. We use administrative births microdata and household survey data
-
-  to estimate the impact of the two-child limit on higher-order births with a triple differences
-
-  approach, exploiting variation over date of birth, socio-economic status, and birth order. We
-
-  find some evidence that the policy led to a small decline in higher-order fertility among low-income families. However, compared to earlier research in the UK and elsewhere, largely based
-
-  on benefit increases, the impact is small. This may be due to informational barriers or to other
-
-  economic and social constraints affecting low income families. Our results imply that the main
-
-  impact of cuts to child benefits is not to reduce fertility but to withdraw income from low-income
-
-  families, with potential implications for child poverty.
+We study the fertility effects of restricting child-related social assistance to the first two children in the family. As of April 2017, all third and subsequent children born to low-income families in the UK were made ineligible for approximately 3000 GBP of means-tested child benefits per year. We leverage administrative births microdata to estimate the impact of the two-child limit on higher-order births with a triple differences approach. We find some suggestive evidence of a decline in higher-order fertility among low-income families. However, effects are not statistically significant and compared to previous research in the UK and elsewhere, the implied elasticities are small.
 draft: false
 featured: true
 tags:
@@ -43,4 +20,4 @@ image:
 date: 2022-04-06T11:42:40.406Z
 ---
 
-IZA discussion paper available here: https://docs.iza.org/dp15203.pdf
+Latest working paper version [here](https://maryreader.com/publication/does-cutting-child-benefits-reduce-fertility-in-larger-families-evidence-from-the-uks-two-child-limit.pdf).
