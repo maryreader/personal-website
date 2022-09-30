@@ -16,5 +16,5 @@ image:
   preview_only: false
 summary: >-
   Latest working paper version [here](https://maryreader.com/publication/does-cutting-child-benefits-reduce-fertility-in-larger-families-evidence-from-the-uks-two-child-limit.pdf).
-date: 2021-12-08T11:30:54.427Z
+date: 2022-09-30T19:28:01.427Z
 ---
