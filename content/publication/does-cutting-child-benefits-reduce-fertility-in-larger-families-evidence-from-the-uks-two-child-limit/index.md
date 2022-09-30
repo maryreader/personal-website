@@ -2,7 +2,7 @@
 title: Does cutting child benefits reduce fertility in larger families? Evidence
   from the UK's two-child limit
 publication_types:
-  - "0"
+  - "3"
 authors:
   - Mary Reader, Jonathan Portes and Ruth Patrick
 abstract: >-
@@ -19,5 +19,5 @@ image:
   preview_only: false
 date: 2022-09-30T19:07:00.406Z
 ---
-
 Latest working paper version [here]([https://maryreader.com/publication/does-cutting-child-benefits-reduce-fertility-in-larger-families-evidence-from-the-uks-two-child-limit.pdf).
+
