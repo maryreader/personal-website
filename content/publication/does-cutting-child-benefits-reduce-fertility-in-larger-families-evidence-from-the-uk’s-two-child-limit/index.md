@@ -2,7 +2,7 @@
 title: Does cutting child benefits reduce fertility in larger families? Evidence
   from the UK’s two-child limit
 publication_types:
-  - "3"
+  - "4"
 authors:
   - admin
   - Jonathan Portes
