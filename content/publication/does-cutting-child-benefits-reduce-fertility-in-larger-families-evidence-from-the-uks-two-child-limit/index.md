@@ -1,6 +1,6 @@
 ---
-title: Does cutting child benefits reduce fertility in larger families? Evidence
-  from the UK's two-child limit
+title: "Does cutting child benefits reduce fertility in larger families? Evidence
+  from the UK's two-child limit"
 publication_types:
   - "3"
 authors:
@@ -16,10 +16,6 @@ tags:
   - fertility; child benefits; welfare 
 projects:
   - Welfare reform and larger families
-image:
-  filename: featured.jpg
-  focal_point: Smart
-  preview_only: false
-date: 2022-09-30T19:16:24.016Z
+date: 2022-09-30T19:19:24.016Z
 ---
 Latest working paper version [here](https://maryreader.com/publication/does-cutting-child-benefits-reduce-fertility-in-larger-families-evidence-from-the-uks-two-child-limit.pdf).
