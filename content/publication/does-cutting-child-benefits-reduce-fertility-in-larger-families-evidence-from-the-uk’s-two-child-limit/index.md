@@ -20,7 +20,7 @@ abstract: We study the fertility effects of restricting child-related social
 draft: false
 featured: false
 tags:
-  - fertility
+  - fertility; family size; social assistance; welfare reform
 image:
   filename: featured.png
   focal_point: Smart
