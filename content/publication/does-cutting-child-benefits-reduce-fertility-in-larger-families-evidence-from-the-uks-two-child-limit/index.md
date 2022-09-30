@@ -11,10 +11,10 @@ abstract: We study the fertility effects of restricting child-related social ass
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
-summary: >-
+summary:
   Latest working paper version [here](https://maryreader.com/publication/does-cutting-child-benefits-reduce-fertility-in-larger-families-evidence-from-the-uks-two-child-limit.pdf).
-date: 2022-09-30T19:28:01.427Z
+date: 2022-09-30T19:32:01.427Z
 ---
