@@ -26,7 +26,6 @@ image:
   focal_point: Smart
   preview_only: false
   caption: "Image credit: Ben Wicks, Unsplash"
-summary:
-Latest working paper available here: 
 date: 2022-09-30T19:39:22.099Z
 ---
+Latest working paper available here: 
