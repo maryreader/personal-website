@@ -19,4 +19,4 @@ image:
   caption: "Image credit: Ben Wicks, Unsplash"
 date: 2022-09-30T19:39:22.099Z
 ---
-Latest working paper available here: 
+Latest working paper available here: https://maryreader.com/publication/does-cutting-child-benefits-reduce-fertility-in-larger-families/does-cutting-child-benefits-reduce-fertility-in-larger-families.pdf
