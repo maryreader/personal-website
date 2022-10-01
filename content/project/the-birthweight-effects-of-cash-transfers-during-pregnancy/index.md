@@ -10,4 +10,4 @@ image:
   preview_only: false
   caption: "Image credit: freestocks on Unsplash"
 ---
-Research using large administrative births and hospital data on the relative birthweight effects of transfers during pregnancy, including universal and means-tested, cash and in-kind, conditional and unconditional transfers.
+Research using administrative births and hospital data on the infant health effects of cash transfers during pregnancy.
