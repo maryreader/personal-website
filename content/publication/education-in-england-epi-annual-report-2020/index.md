@@ -30,7 +30,7 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - education;inequality
+  - education; inequality
 image:
   filename: featured
   focal_point: Smart
