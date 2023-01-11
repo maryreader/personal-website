@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
   - Tania Burchardt
-abstract: This paper offers an empirical account of the changing landscape of private and public welfare activity in England over the forty years prior to the Covid-19 pandemic. It forms a part of the Social Policies and Distributional Outcomes in a Changing Britain research programme and it builds on a methodology devised by John Hills in 1997 and subsequently taken forward by him and successive CASE researchers. The variation in governmental ideologies, aims and policies with regards to the welfare state, and the balance between public and private actors within it, has been significant over the last four decades. But we argue that against a background of strong overall increases in demand for welfare of all kinds, policy changes have in practice produced a consistent direction of travel: away from a "pure public"
+abstract: This paper offers an empirical account of the changing landscape of private and public welfare activity in England over the forty years prior to the Covid-19 pandemic. It forms a part of the Social Policies and Distributional Outcomes in a Changing Britain research programme and it builds on a methodology devised by John Hills in 1997 and subsequently taken forward by him and successive CASE researchers. The variation in governmental ideologies, aims and policies with regards to the welfare state, and the balance between public and private actors within it, has been significant over the last four decades. But we argue that against a background of strong overall increases in demand for welfare of all kinds, policy changes have in practice produced a consistent direction of travel: away from a 'pure public'
 draft: false
 featured: false
 tags:
