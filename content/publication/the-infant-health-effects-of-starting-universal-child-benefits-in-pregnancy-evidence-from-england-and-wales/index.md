@@ -6,9 +6,8 @@ publication_types:
   - "3"
 authors:
   - admin
-publication: Revise & Resubmit, Journal of Health Economics
-abstract: "I take advantage of a unique policy experiment in the UK to identify the infant
-health effects of starting universal child benefits in pregnancy. Leveraging administrative birth registrations and hospital microdata from England, I study the effects of the Health in Pregnancy Grant, a universal cash transfer of 190 GBP to all pregnant mothers who visited their doctor or midwife from 2009 to 2011. I exploit an arbitrary eligibility rule to implement a regression discontinuity design in the date of birth of the baby. I find that the policy led to significant increases in birthweight and reductions in prematurity. These effects do not appear to be explained by earlier antenatal care, nutrition or smoking. Instead, my results are consistent with reductions in prenatal stress among those most at risk of it: low-income, younger and older mothers."
+publication: Revised & Resubmitted to Journal of Health Economics
+abstract: "Child benefits are typically paid from birth. This paper asks whether starting universal child benefits in pregnancy leads to improvements in infant health. Leveraging administrative birth registry and hospital microdata from England and Wales, I study the effects of the Health in Pregnancy Grant, a universal conditional cash transfer equivalent to three months of child benefit (190 GBP) as a lump sum to pregnant mothers from 2009 to 2011. I exploit quasi-experimental variation in eligibility with a regression discontinuity design in the date of birth of the baby. I find that the policy increased birth weight by 8-12 grams on average, reduced low birth weight (<2500g) by 3-6 percent and decreased prematurity by 9-11 percent. Younger mothers, particularly those living in deprived areas, benefit the most. I present evidence that the mechanisms are unlikely to be antenatal care, nutrition or smoking, with reductions in stress remaining a possible explanation."
 draft: false
 featured: true
 image:
