@@ -1,9 +1,8 @@
 ---
 title: Welfare reform and larger families
 date: 2021-11-10T15:26:32.140Z
-summary: Research on the causal impact of recent welfare reforms in the UK –
-  notably the two-child limit, which restricts social assistance to two children
-  in a household – on fertility and labour market outcomes among
+summary: Research on the causal effects of recent welfare reforms in the UK –
+  notably the two-child limit – on fertility and labour market outcomes in
   larger families.
 draft: false
 featured: false
