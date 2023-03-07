@@ -1,8 +1,8 @@
 ---
 title: Inequalities in early years education
 date: 2021-11-10T15:16:29.858Z
-summary: Analysis of the drivers of widening inequalities in early years
-  education using the large administrative educational records in England (the
+summary: Analysis of the drivers of inequality in early years
+  education using administrative education records in England (the
   National Pupil Database).
 draft: false
 featured: false
