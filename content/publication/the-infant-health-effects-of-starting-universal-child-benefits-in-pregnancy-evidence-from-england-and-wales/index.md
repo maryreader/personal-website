@@ -3,7 +3,7 @@ title: "The infant health effects of starting universal child
 benefits in pregnancy: evidence from England and Wales"
 subtitle: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
 publication: Journal of Health Economics, Volume 89 (May 2023)
