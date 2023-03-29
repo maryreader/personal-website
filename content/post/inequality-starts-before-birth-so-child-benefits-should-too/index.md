@@ -13,6 +13,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: freestocks on Unsplash"
 ---
 By the time children start school in the UK, those from low-income backgrounds are already an average of [four months behind their peers](https://epi.org.uk/publications-and-research/education-in-england-annual-report-2020/) in terms of educational development. The gap only widens from there. By the end of primary school, it’s nine months. By the time they take their GCSEs, 18 months. Inequality grows exponentially throughout childhood, gaining momentum with every year a child gets older.
 
