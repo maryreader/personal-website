@@ -14,7 +14,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-y the time children start school in the UK, those from low-income backgrounds are already an average of [four months behind their peers](https://epi.org.uk/publications-and-research/education-in-england-annual-report-2020/) in terms of educational development. The gap only widens from there. By the end of primary school, it’s nine months. By the time they take their GCSEs, 18 months. Inequality grows exponentially throughout childhood, gaining momentum with every year a child gets older.
+By the time children start school in the UK, those from low-income backgrounds are already an average of [four months behind their peers](https://epi.org.uk/publications-and-research/education-in-england-annual-report-2020/) in terms of educational development. The gap only widens from there. By the end of primary school, it’s nine months. By the time they take their GCSEs, 18 months. Inequality grows exponentially throughout childhood, gaining momentum with every year a child gets older.
 
 That’s why it has been so refreshing to see [childcare](https://www.theguardian.com/uk-news/2023/mar/14/budget-2023-hunt-to-announce-4bn-boost-for-childcare-in-england) and the early years firmly back on the political agenda since the spring budget. But interventions in the early years of a child’s life may already be too late. We know that inequality starts much earlier than nursery: it starts in the womb.
 
