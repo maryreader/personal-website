@@ -4,11 +4,11 @@ date: 2023-03-29T13:53:10.318Z
 draft: false
 featured: true
 authors:
-  - Mary
+  - author
 tags:
-  - childhood
+  - early childhood; infant health; child benefit
 projects:
-  - Cash
+  - Cash transfers, pregnancy and infant health
 image:
   filename: featured
   focal_point: Smart
