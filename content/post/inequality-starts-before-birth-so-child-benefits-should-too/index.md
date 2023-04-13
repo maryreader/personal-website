@@ -1,5 +1,5 @@
 ---
-title: Inequality starts before birth - so child benefits should too
+title: Inequality starts before birth - so child benefits should too (The Guardian)
 date: 2023-03-29T13:53:10.318Z
 draft: false
 featured: true
