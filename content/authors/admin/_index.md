@@ -14,7 +14,7 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. 
+bio: I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. I will be starting an Economics PhD at Stanford University in Fall 2023. 
 
 # Interests to show in About widget
 interests:
