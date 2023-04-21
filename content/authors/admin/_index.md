@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:m.reader@lse.ac.uk
+  link: "mailto:m.reader@lse.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/reader_mary
@@ -61,7 +61,7 @@ social:
   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "m.reader@lse.ac.uk"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
