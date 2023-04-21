@@ -37,9 +37,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:m.reader@lse.ac.uk"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/reader_mary
@@ -66,6 +63,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics.
-
-I will be starting an Economics PhD at Stanford University in Fall 2023. 
+I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. I will be starting an Economics PhD at Stanford University in Fall 2023. 
