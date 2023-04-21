@@ -3,7 +3,7 @@ widget: pages
 widget_id: publications
 headless: true
 weight: 90
-title: Recent Publications and Working Papers
+title: Publications and working papers
 subtitle: ""
 content:
   page_type: publication
