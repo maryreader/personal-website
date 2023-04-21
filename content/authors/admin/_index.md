@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'm.reader@lse.ac.uk'
+  link: mailto:m.reader@lse.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/reader_mary
