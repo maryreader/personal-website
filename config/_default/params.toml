@@ -111,7 +111,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "mail", icon_pack = "fab", name = "Email", link = "m.reader@lse.ac.uk"},
+  {icon = "envelope", icon_pack = "fas", name = "Email", link = "m.reader@lse.ac.uk"},
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/reader_mary"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/mary-reader-919287125/?originalSubdomain=uk"},
   ]
