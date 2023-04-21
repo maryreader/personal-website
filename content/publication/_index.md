@@ -1,5 +1,5 @@
 ---
-title: Working papers and policy reports
+title: Publications and working papers
 
 # View.
 #   1 = List
