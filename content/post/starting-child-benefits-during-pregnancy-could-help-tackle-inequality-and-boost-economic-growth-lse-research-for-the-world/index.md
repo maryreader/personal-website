@@ -10,7 +10,7 @@ summary: "In the UK, child benefit can be claimed as soon as a birth is
 draft: false
 featured: false
 authors:
-  - admin
+  - Mary Reader
 tags:
   - health; child benefits; cash transfers
 image:
@@ -18,8 +18,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-This article was originally published by LSE Research for the World in May 2023: https://www.lse.ac.uk/research/research-for-the-world/health/starting-child-benefits-during-pregnancy-could-help-tackle-inequality-and-boost-economic-growth
 
 When Gordon Brown’s government introduced a lump-sum £190 payment for all pregnant women in 2009, it sparked a major controversy. The Health in Pregnancy Grant, to be given to those in their seventh month of pregnancy, was dismissed by opposition MPs and other critics as a pointless ‘gimmick’ that would be frittered away on ‘booze, fags, bingo and plasma screen TVs.’
 
@@ -58,3 +56,5 @@ She points to recent Institute for Fiscal Studies research which shows that Sure
 She adds: “Investing in the health of future generations means better labour market outcomes, more growth and more tax revenue for governments to spend elsewhere. A little, invested early on, goes a long way.”
 
 Mary Reader was speaking to Joanna Bale, Senior Media Relations Manager at LSE.
+
+This article was originally published by LSE Research for the World on 23 May 2023: [https://www.lse.ac.uk/research/research-for-the-world/health/starting-child-benefits-during-pregnancy-could-help-tackle-inequality-and-boost-economic-growth](https://www.lse.ac.uk/research/research-for-the-world/health/starting-child-benefits-during-pregnancy-could-help-tackle-inequality-and-boost-economic-growth)
