@@ -19,6 +19,8 @@ image:
   preview_only: false
 ---
 
+This article was originally published by LSE Research for the World in May 2023: https://www.lse.ac.uk/research/research-for-the-world/health/starting-child-benefits-during-pregnancy-could-help-tackle-inequality-and-boost-economic-growth
+
 When Gordon Brown’s government introduced a lump-sum £190 payment for all pregnant women in 2009, it sparked a major controversy. The Health in Pregnancy Grant, to be given to those in their seventh month of pregnancy, was dismissed by opposition MPs and other critics as a pointless ‘gimmick’ that would be frittered away on ‘booze, fags, bingo and plasma screen TVs.’
 
 To claim it, the only requirement was to visit a midwife or GP for an ante-natal check-up from the 25th week of pregnancy and fill in a form.
@@ -56,6 +58,3 @@ She points to recent Institute for Fiscal Studies research which shows that Sure
 She adds: “Investing in the health of future generations means better labour market outcomes, more growth and more tax revenue for governments to spend elsewhere. A little, invested early on, goes a long way.”
 
 Mary Reader was speaking to Joanna Bale, Senior Media Relations Manager at LSE.
-“The infant health effects of starting universal child benefits in pregnancy: evidence from England and Wales” by Mary Reader was published in the Journal of Health Economics.
-
-This article was originally published in LSE Research for the World in May 2023: https://www.lse.ac.uk/research/research-for-the-world/health/starting-child-benefits-during-pregnancy-could-help-tackle-inequality-and-boost-economic-growth
