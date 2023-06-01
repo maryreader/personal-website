@@ -2,9 +2,13 @@
 title: Making work pay? The labor market effects of capping child benefits in
   larger families
 publication_types:
-  - "0"
+  - "3"
 authors:
-  - Mary Reader, Kate Andersen, Ruth Patrick, Aaron Reeves and Kitty Stewart
+  - admin
+  - Kate Andersen
+  - Ruth Patrick
+  - Aaron Reeves
+  - Kitty Stewart
 abstract: Child benefits are typically paid on a per-child basis, without
   restrictions on family size. In this paper we generate unique evidence on the
   effects of capping child benefits by family size by examining the introduction
@@ -28,4 +32,5 @@ image:
   preview_only: false
 date: 2023-06-01T13:34:16.993Z
 ---
-Latest working paper version here: https://sticerd.lse.ac.uk/CASE/_NEW/PUBLICATIONS/abstract/?index=10186
+Latest working paper available [here]([https://sticerd.lse.ac.uk/CASE/_NEW/PUBLICATIONS/abstract/?index=9820](https://sticerd.lse.ac.uk/CASE/_NEW/PUBLICATIONS/abstract/?index=10186)).
+
