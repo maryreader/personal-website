@@ -32,4 +32,4 @@ image:
   preview_only: false
 date: 2023-06-01T13:34:16.993Z
 ---
-Latest working paper available [here]([https://sticerd.lse.ac.uk/CASE/_NEW/PUBLICATIONS/abstract/?index=9820]).
+Latest working paper available [here](https://sticerd.lse.ac.uk/CASE/_NEW/PUBLICATIONS/abstract/?index=10186).
