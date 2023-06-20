@@ -19,8 +19,8 @@ bio: I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal R
 # Interests to show in About widget
 interests:
 - Public, labor and health economics 
-- Inequality and poverty
-- Family policy
+- Inequality
+- Economics of the family
 
 # Education to show in About widget
 education:
