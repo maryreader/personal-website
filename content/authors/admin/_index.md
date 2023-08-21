@@ -6,12 +6,12 @@ title: Mary Reader
 superuser: true
 
 # Role/position/tagline
-role: Pre-Doctoral Research Assistant
+role: PhD Student in Economics 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: London School of Economics
-  url: https://www.lse.ac.uk/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student in Economics at Stanford University. I am also a Visiting Fellow at STICERD at the London School of Economics.
