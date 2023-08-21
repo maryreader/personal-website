@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Stanford University
-  - course: Master of Public Administration (MPA)
+  - course: Master of Public Administration
     institution: London School of Economics 
     year: 2019
   - course: BA in Philosophy, Politics and Economics
