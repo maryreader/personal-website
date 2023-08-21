@@ -6,7 +6,7 @@ title: Mary Reader
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
