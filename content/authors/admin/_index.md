@@ -14,7 +14,7 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Economics at Stanford University. I am also a Visiting Fellow at STICERD at the London School of Economics.
+bio: I am a PhD student in Economics at Stanford University. I am also a Visiting Fellow at STICERD at the LSE.
 
 # Interests to show in About widget
 interests:
