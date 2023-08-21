@@ -68,4 +68,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a PhD student in Economics at Stanford University. I am also a Visiting Fellow at STICERD at the London School of Economics.
+I am a PhD student in Economics at Stanford University. I am also a Visiting Fellow at STICERD at the LSE.
