@@ -14,7 +14,7 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. I will be starting an Economics PhD at Stanford University in Fall 2023.
+bio: I am a PhD student in Economics at Stanford University. I am also a Visiting Fellow at STICERD at the London School of Economics.
 
 # Interests to show in About widget
 interests:
@@ -25,6 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Economics
+    institution: Stanford University
   - course: Master of Public Administration (MPA)
     institution: London School of Economics 
     year: 2019
@@ -39,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:m.reader@lse.ac.uk"
+  link: "mailto:mreader@stanford.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/reader_mary
@@ -66,4 +68,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Pre-Doctoral Research Assistant at the STICERD-Gates Hub for Equal Representation at The London School of Economics. I will be starting an Economics PhD at Stanford University in Fall 2023.
+I am a PhD student in Economics at Stanford University. I am also a Visiting Fellow at STICERD at the London School of Economics.
